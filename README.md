@@ -2,24 +2,24 @@
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
+![InterfaceInsta](https://user-images.githubusercontent.com/100203503/168425438-616783fc-34a7-41f7-a54f-f961466f2f03.PNG)
+
 
 ## Índice 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Documentação](#Documentação)
 
 
 ## Descrição do Projeto
-Interface de Instagram criada 
+Interface de Instagram criada como parte de um desafio da Digital Innovation One
 
 
 ## Funcionalidades e Demonstração da Aplicação
 - `Funcionalidade 1`: 
-- `Funcionalidade 2`: 
-- `Funcionalidade 3`:
+
+
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">

@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 48rem;
 }
 
 .instagram-continue {
@@ -53,6 +53,7 @@ body {
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
+    margin-top: 1.5rem;
     border: 1px solid lightgray;
 }
 
@@ -60,8 +61,22 @@ body {
     min-height: 19rem;
 }
 
+
 .instagram-logo {
-    height: 3rem;
+    height: 3.5rem;
+    margin-top: 2.5rem;
+}
+
+.button{
+    background-color: #0095F6;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 0.5rem;
+}
+
+.button p {
+    padding: 0.6rem;
+    color: white;
 }
 
 .profile-photo {

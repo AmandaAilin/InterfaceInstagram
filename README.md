@@ -13,12 +13,12 @@
 
 
 ## Descrição do Projeto
-Interface de Instagram criada como parte de um desafio da Digital Innovation One
+Desafio de reconstruir a página de login do Instagram, da Digital Innovation One. Utilizando CSS com Flexbox.
+Fiz algumas modificações na estilização e responsividade.
 
 
 ## Funcionalidades e Demonstração da Aplicação
 - `Funcionalidade 1`: 
-
 
 
 ## Tecnologias utilizadas

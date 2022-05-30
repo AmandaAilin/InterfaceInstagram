@@ -12,7 +12,9 @@
 
 ![InterfaceInsta](https://user-images.githubusercontent.com/100203503/168425438-616783fc-34a7-41f7-a54f-f961466f2f03.PNG)
 
-
+<p align="right">
+ View: https://amandaailin.github.io/InterfaceInstagram/
+</p>
 
 ## Descrição do Projeto
 Desafio de reconstruir a página de login do Instagram, da Digital Innovation One. Utilizando CSS com Flexbox.

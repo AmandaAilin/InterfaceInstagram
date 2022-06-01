@@ -23,7 +23,7 @@ Fiz algumas modificações na estilização e responsividade.
 ### Proximos pasos:
 
 - [ ] adicionar acessibilidade
-- [ ] media query
+
 </br>
 
 ## Tecnologias utilizadas
